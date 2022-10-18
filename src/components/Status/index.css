@@ -1,0 +1,28 @@
+.status {
+  display: flex;
+  flex-flow: row wrap;
+  width: 100%;
+  align-items: center;
+  align-content: center;
+}
+.status-title{
+  display: flex;
+  padding: 2rem;
+  width: 100%;
+  font-size: 2rem;
+
+}
+.status-container {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+@media (min-width: 700px) {
+
+ 
+}

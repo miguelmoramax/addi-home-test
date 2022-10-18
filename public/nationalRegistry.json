@@ -1,0 +1,31 @@
+[
+    {
+        "dni": "11.111.111-1",
+        "firstName": "Miguel",
+        "lastName": "Mora",
+        "birthDate": "20/05/1985",
+        "email": "miguelmoramax@email.com"
+      },
+      {
+        "dni": "11.111.111-2",
+        "firstName": "Miguel",
+        "lastName": "Mora",
+        "birthDate": "20/05/1985",
+        "email": "miguelmoramax@email.com"
+      },
+      {
+        "dni": "11.111.111-5",
+        "firstName": "Miguel",
+        "lastName": "Mora",
+        "birthDate": "20/05/1985",
+        "email": "miguelmoramax@email.com"
+      },
+      {
+        "dni": "11.111.111-8",
+        "firstName": "Miguel",
+        "lastName": "Mora",
+        "birthDate": "20/05/1985",
+        "email": "miguelmoramax@email.com"
+      }
+
+]

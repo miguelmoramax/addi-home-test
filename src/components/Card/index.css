@@ -1,0 +1,29 @@
+.card {
+  display: flex;
+  flex-flow: column nowrap;
+  background-color: #323232;
+  margin: 0.5rem;
+  align-items: center;
+  align-content: center;
+  padding: 1rem;
+  font-size: smaller;
+}
+.card-info {
+  display: flex;
+  flex-flow: column nowrap;
+}
+.card img {
+  width: 80%;
+  object-fit: contain;
+  object-position: top;
+}
+
+.card-button {
+  width: 100%;
+}
+
+@media (min-width: 700px) {
+  .card {
+    font-size: large;
+  }
+}
